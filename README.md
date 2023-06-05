@@ -1,7 +1,7 @@
 ## Oiii Me Chamo Natan Ramos, Sou um Desenvolvedor júnior em busca de me tornar um full stack!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanRamosFerreira&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanRamosFerreira&layout=donut)](https://github.com/NatanRamosFerreira/NatanRamosFerreira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanRamosFerreira&hide_progress=true)](https://github.com/NatanRamosFerreira/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
