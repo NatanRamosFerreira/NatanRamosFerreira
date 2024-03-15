@@ -1,5 +1,5 @@
 ## Oiii Me Chamo Natan Ramos, Sou um Desenvolvedor Backend em Busca de conhecimento!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanRamosFerreira&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanRamosFerreira&show_icons=true&theme=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanRamosFerreira&hide_progress=true&theme=dark)](https://github.com/NatanRamosFerreira/github-readme-stats)
 
